@@ -1,0 +1,49 @@
+POWER BI PROJECTS:  Amazon Sales Analysis
+
+PROBLEM STATEMENT:
+KPI's REQUIRMENT
+.YTD Sales:Monitor year-to-date sales to gauge the overall revenue performance over time.
+.QTD sales: Track quarterly sales figures to identify sales trends and fluctuations.
+.YTD Product Sold: Analyse the total number of products sold throughout the year to understand 
+product movement.
+.YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
+
+CHARTS REQUIRMENTS:
+
+.Sales by Month(Line Chart):  Visualize sales trends over time on a monthly basis to identify
+seasonal patterns and growth trends.
+
+. Sales by Week(Column Chart): Display sales date on a weekly basis to pinpoint shorter-term fluctuations
+and performance insights.
+
+.Sales by Product Category(Text/Heat Map): Utilize a text or heat map visualization to provide a high-level overview
+of sales across different product categories.
+ 
+.Top 5 products by  YTD Sales(Bar Chart): Highlight the top-performing products based on year-to-date
+sales to focus on key revenue generators.
+
+.Top 5 products by YTD  Reviews(Bar Chart): Identify the top-rated products by year-to-date
+reviews to understand customer preferences.
+
+.Connecting to CSV File
+. Data Cleaning
+. Data Modelling
+. Data Processing
+. Power Query
+. Data Tables
+. Time Intelligence Function
+. DAX
+. Date Function
+. Text Function
+. Filter Function
+. Calculate
+. YTD Function
+. QTD Functions
+. Custom Sorting
+. Formatting
+. Conditional Formatting
+. New Card Visual
+. Creating Charts
+. Formatting Visuals
+. Creating Functions
+. Navigations.
