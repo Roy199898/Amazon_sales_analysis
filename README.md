@@ -53,6 +53,6 @@ The goal of this project is to analyze Amazon sales data to extract insights on 
 
 ---
 
-![Dashboard Preview](Amazon_Product_Analysis_Pic.png)
+![Project Preview](Amazon_Product_Analysis_Pic.png)
 
 
